@@ -42,6 +42,23 @@ The workflow triggers on:
 - Push to `main` branch
 - Pull requests
 
+## Viewing Workflow Results
+
+To see the CI pipeline in action:
+
+1. Go to the **Actions** tab in your GitHub repository: `https://github.com/linobollansee/ci-with-github-actions/actions`
+2. Click on any workflow run to see the details
+3. Expand each step to view logs for:
+   - Code checkout
+   - Dependency caching
+   - Node.js setup
+   - Package installation
+   - Lint results
+   - Build output
+   - Test results
+
+The status badge at the top of this README shows the current state of the latest workflow run.
+
 ## Project Structure
 
 ```
