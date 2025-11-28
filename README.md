@@ -1,6 +1,6 @@
 # CI with GitHub Actions
 
-![CI](https://github.com/linobollansee/ci-with-github-actions/actions/workflows/ci.yml/badge.svg)
+[![CI](https://github.com/linobollansee/ci-with-github-actions/actions/workflows/ci.yml/badge.svg)](https://github.com/linobollansee/ci-with-github-actions/actions)
 
 A minimal NestJS application with automated CI/CD pipeline using GitHub Actions.
 
